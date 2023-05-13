@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+
+}
+
+.navbar .navbar-nav .nav-item a {
+  padding: 15px;
+}
+
+.navbar .navbar-nav .nav-but {
+  padding: 5px;
+}
+
+.main_div4 {
+  margin-top: 80px;
+}
+
+.featured {
+  margin-right: 6px;
+}
+
+.featured:hover {
+  background-image: linear-gradient(to right, #896745 15%, #786534 45%, #565665);
+  transform: scale(1.1, 1.1);
+  transition-delay: 0s;
+  transition-duration: 2s;
+  transition-timing-function: ease-in;
+}
